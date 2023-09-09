@@ -5,12 +5,11 @@ Este repositorio es un resumen de mi experiencia y práctica con Power BI. Aquí
 ## Proyectos Destacados
 
 1. **Ventas_videojuegos**
-   - Descripción: Un informe interactivo que analiza las ventas de videojuegos de diversas compañias
-   -  [Ver proyecto] (Video_juegos al proyecto 1)
-2. **Análisis de Datos de Redes Sociales**
-   - Descripción: Un dashboard que muestra métricas clave de redes sociales y tendencias
-3. **Informe Financiero Trimestral**
-   - Descripción: Un informe detallado que presenta el desempeño financiero trimestral de la empresa.
+   - Descripción: Un informe interactivo que analiza las ventas de videojuegos de diversas compañias.
+2. **Análisis de Datos de Recursos Humanos**
+   - Descripción: Un dashboard que muestra métricas clave del area de recursos humanos.
+3. **Indicadores mundialesl**
+   - Descripción: Un informe detallado que presenta diversos indicadores mundiales.
   
 
 ## Sobre Mí
