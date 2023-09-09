@@ -2,7 +2,7 @@
 
 Este repositorio es un resumen de mi experiencia y práctica con Power BI. Aquí encontrarás una lista de los proyectos que he desarrollado utilizando Power BI para visualizar y analizar datos de manera efectiva.
 
-## Proyectos Destacados
+## Proyectos
 
 1. **Ventas_videojuegos**
    - Descripción: Un informe interactivo que analiza las ventas de videojuegos de diversas compañias.
@@ -11,16 +11,10 @@ Este repositorio es un resumen de mi experiencia y práctica con Power BI. Aquí
 3. **Indicadores mundialesl**
    - Descripción: Un informe detallado que presenta diversos indicadores mundiales.
   
-
-## Sobre Mí
-
-Soy [tu nombre], un apasionado de Power BI con experiencia en la creación de informes interactivos y análisis de datos. He trabajado en diversos proyectos, desde análisis de ventas hasta paneles de control financieros.
-
 ## Contacto
 
-Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme:
-- Correo electrónico: [tu@email.com]
-- LinkedIn: [Tu perfil de LinkedIn]
+Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme.
+
 
 ¡Gracias por visitar mi portfolio de proyectos de Power BI!
 
