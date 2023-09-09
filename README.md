@@ -1,6 +1,28 @@
+# Mi Portfolio de Proyectos de Power BI
 
-# PowerBI_projects
-PowerBI_projects
+Este repositorio es un resumen de mi experiencia y práctica con Power BI. Aquí encontrarás una lista de los proyectos que he desarrollado utilizando Power BI para visualizar y analizar datos de manera efectiva.
+
+## Proyectos Destacados
+
+1. **Ventas_videojuegos**
+   - Descripción: Un informe interactivo que analiza las ventas de la compañía durante el año 2022.
+2. **Análisis de Datos de Redes Sociales**
+   - Descripción: Un dashboard que muestra métricas clave de redes sociales y tendencias
+3. **Informe Financiero Trimestral**
+   - Descripción: Un informe detallado que presenta el desempeño financiero trimestral de la empresa.
+  
+
+## Sobre Mí
+
+Soy [tu nombre], un apasionado de Power BI con experiencia en la creación de informes interactivos y análisis de datos. He trabajado en diversos proyectos, desde análisis de ventas hasta paneles de control financieros.
+
+## Contacto
+
+Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme:
+- Correo electrónico: [tu@email.com]
+- LinkedIn: [Tu perfil de LinkedIn]
+
+¡Gracias por visitar mi portfolio de proyectos de Power BI!
 
 ![Video_juegos](https://github.com/Rsorianoclever/PowerBI_projects/assets/80426763/9a349c9f-54bd-4b15-ba90-ac516f794dcc)
 ![Recursos_humanos2](https://github.com/Rsorianoclever/PowerBI_projects/assets/80426763/b38f34d7-1d8f-4798-bd6d-44b70800e0dd)
