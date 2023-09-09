@@ -6,7 +6,7 @@ Este repositorio es un resumen de mi experiencia y práctica con Power BI. Aquí
 
 1. **Ventas_videojuegos**
    - Descripción: Un informe interactivo que analiza las ventas de videojuegos de diversas compañias
-   -  [Ver proyecto] [Video_juegos] (enlace al proyecto 1)
+   -  [Ver proyecto] (Video_juegos al proyecto 1)
 2. **Análisis de Datos de Redes Sociales**
    - Descripción: Un dashboard que muestra métricas clave de redes sociales y tendencias
 3. **Informe Financiero Trimestral**
